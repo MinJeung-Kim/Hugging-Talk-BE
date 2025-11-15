@@ -1,0 +1,6 @@
+sentencepiece
+fastapi
+python-dotenv
+nltk
+torch
+transformers
